@@ -10,6 +10,7 @@ from typing import Optional
 from datetime import datetime
 from dateutil.rrule import rrulestr
 
+
 from app.models import Alocacao
 from app.models.room import Sala
 from app.models.user import Usuario
